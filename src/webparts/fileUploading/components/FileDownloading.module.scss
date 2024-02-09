@@ -1,0 +1,61 @@
+.card {
+  width: 100%;
+  border: 1px solid #a9a9a9a6;
+  box-shadow: 2px 1px 3px 1px #a9a9a9a6;
+  border-radius: 5px;
+  font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  padding-bottom: 20px;
+}
+
+.headerBox {
+  background-color: #060c5c;
+  color: #fff;
+  font-size: 25px;
+  padding: 15px;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.downloadImg {
+  width: 160px;
+}
+
+.text {
+  font-size: 25px;
+  text-transform: capitalize;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.contentBox {
+  padding: 16px 16px 0;
+  text-align: center;
+}
+
+.file {
+  font-size: 15px;
+  font-weight: 600;
+  color: #242424;
+}
+
+.downloadButton {
+  background-color: #00bcd4;
+  padding: 5px 10px;
+  color: #fff;
+  border: none;
+  border-radius: 3%;
+  box-shadow: 1px 1px 2px 1px #00bcd4;
+  cursor: pointer;
+}
+
+td {
+  padding-bottom: 10px;
+  text-align: left;
+}
+
+.fileItem {
+  color: #000;
+  // display: flex;
+}
